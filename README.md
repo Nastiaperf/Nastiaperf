@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi I'm Anastasia 👋
+
+I'm a Ruby on Rails developper, always eager to learn more 👩‍💻 \
+I have a degree in Digital Marketing 🎓 and I'm a freelance photographer 📸
+
+› 🌱 I’m currently perfectionning Ruby on Rails \
+› 👯 I’m open to freelance projects \
+› 📫 You can message me on [Linkedin](https://www.linkedin.com/in/anastasiaparfait/?locale=en_US)
 
 <!--
 **Nastiaperf/Nastiaperf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
