@@ -7,7 +7,7 @@ I have a degree in Digital Marketing 🎓 and I'm a freelance photographer 📸
 › 👯 I’m open to freelance projects \
 › 👤 You can message me on [Linkedin](https://www.linkedin.com/in/anastasiaparfait/?locale=en_US)
 
-I am familiar with the following programming languages 💪:
+I am familiar with the following programming languages 💪: \
 `Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
 <!--
