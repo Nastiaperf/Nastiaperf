@@ -3,9 +3,12 @@
 I'm a Ruby on Rails developper, always eager to learn more 👩‍💻 \
 I have a degree in Digital Marketing 🎓 and I'm a freelance photographer 📸
 
-› 🌱 I’m currently perfectionning Ruby on Rails \
+› 🌱 At the moment I am learning and consolidating my knowledge on React.js and Javascript \
 › 👯 I’m open to freelance projects \
-› 📫 You can message me on [Linkedin](https://www.linkedin.com/in/anastasiaparfait/?locale=en_US)
+› 👤 You can message me on [Linkedin](https://www.linkedin.com/in/anastasiaparfait/?locale=en_US)
+
+I am familiar with the following programming languages 💪:
+`Ruby` - `Ruby on Rails` - `Python` - `HTML` - `SCSS` - `JavaScript` - `SQL` - `VueJS` - `Active Record` - `AJAX` - `Bootstrap`
 
 <!--
 **Nastiaperf/Nastiaperf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
